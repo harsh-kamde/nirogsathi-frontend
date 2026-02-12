@@ -10,7 +10,7 @@ Designed with scalable frontend architecture, secure authentication, and AI-read
 
 ---
 
-## Problem Statement
+## 🌍 Problem Statement
 
 Traditional healthcare systems suffer from:
 
@@ -25,7 +25,7 @@ NirogSathi solves these problems using an AI-ready healthcare management platfor
 
 ---
 
-## Solution
+## 💡 Solution
 
 NirogSathi is a role-based healthcare management system that enables:
 
