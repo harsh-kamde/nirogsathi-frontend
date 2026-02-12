@@ -1,4 +1,5 @@
-<img width="1919" height="821" alt="image" src="https://github.com/user-attachments/assets/14e2f08c-6158-42e0-a453-fae365cc82de" />
+<img width="1592" height="818" alt="image" src="https://github.com/user-attachments/assets/330aba4f-e745-47fd-b9e0-f64b5c89646d" />
+
 
 # NirogSathi — AI Powered Healthcare Platform
 
