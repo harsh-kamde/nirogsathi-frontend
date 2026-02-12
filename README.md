@@ -1,5 +1,3 @@
-<img width="1052" height="614" alt="image" src="https://github.com/user-attachments/assets/85e1b450-f66b-40c7-bc91-58c52edec306" />
-
 # NirogSathi — AI Powered Healthcare Platform
 
 A production-grade AI-driven healthcare ecosystem that connects patients, doctors, and healthcare providers through intelligent automation, real-time insights, and role-based digital healthcare workflows.
