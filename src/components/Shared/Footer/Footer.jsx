@@ -358,7 +358,7 @@ const Footer = () => {
 
               <div className="mt-4 flexRowSpaceBetween mb-3">
                 <p className="copyright">
-                  © Copyright Nirog Sathi-2024. All rights reserved.
+                  © Copyright NirogSathi 2026. All rights reserved.
                 </p>
 
                 <div className="policy">
