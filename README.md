@@ -10,39 +10,34 @@ A production-grade AI-driven healthcare ecosystem connecting <b>patients, doctor
 </p>
 
 <p align="center">
-
-![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
-![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-purple)
-
-![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-orange)
-![Telemedicine](https://img.shields.io/badge/Telemedicine-Healthcare-blue)
-![Digital Health](https://img.shields.io/badge/Digital-Healthcare-success)
-
-![JWT Auth](https://img.shields.io/badge/Auth-JWT-yellow)
-![RBAC](https://img.shields.io/badge/Security-RBAC-red)
-![Google reCAPTCHA](https://img.shields.io/badge/Security-reCAPTCHA-green)
-
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Production--Ready-success)
-
+<img src="https://img.shields.io/badge/React-18-blue"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-green"/>
+<img src="https://img.shields.io/badge/Express.js-API-lightgrey"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-brightgreen"/>
+<img src="https://img.shields.io/badge/Redux-Toolkit-purple"/>
+<img src="https://img.shields.io/badge/AI-Powered-blueviolet"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange"/>
+<img src="https://img.shields.io/badge/Telemedicine-Healthcare-blue"/>
+<img src="https://img.shields.io/badge/Digital-Healthcare-success"/>
+<img src="https://img.shields.io/badge/Auth-JWT-yellow"/>
+<img src="https://img.shields.io/badge/Security-RBAC-red"/>
+<img src="https://img.shields.io/badge/Security-reCAPTCHA-green"/>
+<img src="https://img.shields.io/badge/License-MIT-yellow"/>
+<img src="https://img.shields.io/badge/Status-Production--Ready-success"/>
 </p>
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
 🚀 **Website**  
 https://www.nirogsathi.com
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
-**NirogSathi** is an **AI-ready digital healthcare platform** designed to modernize healthcare services through intelligent automation and scalable system architecture.
+**NirogSathi** is an **AI-ready digital healthcare platform** designed to modernize healthcare services through intelligent automation and scalable architecture.
 
 The platform enables:
 
@@ -53,11 +48,11 @@ The platform enables:
 - Healthcare analytics
 - Admin monitoring dashboards
 
-Designed with **future AI integration capabilities** such as predictive healthcare analytics and automated recommendations.
+Built with **future AI integration capabilities** such as predictive healthcare analytics and automated recommendations.
 
 ---
 
-# 🌍 Problem Statement
+## 🌍 Problem Statement
 
 Traditional healthcare systems face critical challenges:
 
@@ -70,20 +65,20 @@ Traditional healthcare systems face critical challenges:
 
 ---
 
-# 💡 Solution
+## 💡 Solution
 
 NirogSathi introduces a **centralized healthcare management system** that enables:
 
-✔ Intelligent appointment scheduling  
-✔ Digital medical records management  
-✔ Automated prescription handling  
-✔ Role-based healthcare dashboards  
-✔ Real-time system monitoring  
-✔ AI-ready healthcare analytics
+- Intelligent appointment scheduling  
+- Digital medical records management  
+- Automated prescription handling  
+- Role-based healthcare dashboards  
+- Real-time system monitoring  
+- AI-ready healthcare analytics  
 
 ---
 
-# ⭐ Key Features
+## ⭐ Key Features
 
 ### 🧑‍⚕️ Patient Features
 
@@ -94,8 +89,6 @@ NirogSathi introduces a **centralized healthcare management system** that enable
 - Doctor reviews & ratings
 - Secure profile management
 
----
-
 ### 👨‍⚕️ Doctor Features
 
 - Patient management dashboard
@@ -104,8 +97,6 @@ NirogSathi introduces a **centralized healthcare management system** that enable
 - Medical record access
 - Health blog publishing
 - Specialization management
-
----
 
 ### 🛠 Admin Features
 
@@ -118,7 +109,7 @@ NirogSathi introduces a **centralized healthcare management system** that enable
 
 ---
 
-# 🧠 AI Ready Architecture
+## 🧠 AI Ready Architecture
 
 The system is designed for **future AI integration**, including:
 
@@ -131,7 +122,7 @@ The system is designed for **future AI integration**, including:
 
 ---
 
-# 🏗 System Architecture
+## 🏗 System Architecture
 
 ```
 Client Layer
@@ -156,9 +147,9 @@ Architecture emphasizes:
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-## Frontend
+### Frontend
 
 - React 18
 - Redux Toolkit
@@ -168,17 +159,13 @@ Architecture emphasizes:
 - Axios
 - Styled Components
 
----
-
-## Backend
+### Backend
 
 - Node.js
 - Express.js
 - MongoDB
 
----
-
-## UI & Animation
+### UI & Animation
 
 - Lottie React
 - React Type Animation
@@ -187,9 +174,7 @@ Architecture emphasizes:
 - React Star Ratings
 - React Hot Toast
 
----
-
-## Authentication & Security
+### Authentication & Security
 
 - JWT Authentication
 - Role-based Access Control (RBAC)
@@ -198,7 +183,7 @@ Architecture emphasizes:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 src
@@ -233,35 +218,26 @@ src
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 ### Home Page
-
-```
-Add screenshot here
-```
+(Add screenshot here)
 
 ### Doctor Dashboard
-
-```
-Add screenshot here
-```
+(Add screenshot here)
 
 ### Patient Portal
-
-```
-Add screenshot here
-```
+(Add screenshot here)
 
 ---
 
-# 📱 Responsive Design
+## 📱 Responsive Design
 
-The application supports:
+Supports:
 
-📱 Mobile devices (320px+)  
-📱 Tablets (768px+)  
-💻 Desktop browsers (1024px+)
+- 📱 Mobile devices (320px+)
+- 📱 Tablets (768px+)
+- 💻 Desktop browsers (1024px+)
 
 Features:
 
@@ -271,7 +247,7 @@ Features:
 
 ---
 
-# 🚀 Performance Optimizations
+## 🚀 Performance Optimizations
 
 - Lazy-loaded routes
 - Optimized bundle size
@@ -281,7 +257,7 @@ Features:
 
 ---
 
-# 📋 Prerequisites
+## 📋 Prerequisites
 
 Before running the project ensure:
 
@@ -291,22 +267,22 @@ Before running the project ensure:
 
 ---
 
-# 🛠 Installation
+## 🛠 Installation
 
-### 1️⃣ Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/your-username/nirogsathi.git
 cd nirogsathi
 ```
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Create Environment Variables
+### Create Environment Variables
 
 Create `.env`
 
@@ -315,7 +291,7 @@ REACT_APP_API_URL=<your-api-url>
 REACT_APP_GOOGLE_RECAPTCHA_SITE_KEY=<your-recaptcha-key>
 ```
 
-### 4️⃣ Run Development Server
+### Run Development Server
 
 ```bash
 npm start
@@ -329,7 +305,7 @@ http://localhost:3000
 
 ---
 
-# 📊 Real World Impact
+## 📊 Real World Impact
 
 This project demonstrates:
 
@@ -341,7 +317,7 @@ This project demonstrates:
 
 ---
 
-# 🚀 Future Roadmap
+## 🚀 Future Roadmap
 
 - AI diagnosis assistant
 - Video consultation system
@@ -353,9 +329,7 @@ This project demonstrates:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
+## 🤝 Contributing
 
 1. Fork repository  
 2. Create feature branch
@@ -380,13 +354,13 @@ git push origin feature/new-feature
 
 ---
 
-# 📝 License
+## 📝 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-# ❤️ Built With Passion
+## ❤️ Built With Passion
 
 **NirogSathi Team**
 
