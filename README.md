@@ -33,7 +33,6 @@ A production-grade AI-driven healthcare ecosystem connecting <b>patients, doctor
 🚀 **Website**  
 https://www.nirogsathi.com
 
----
 
 ## 📌 Project Overview
 
@@ -50,7 +49,6 @@ The platform enables:
 
 Built with **future AI integration capabilities** such as predictive healthcare analytics and automated recommendations.
 
----
 
 ## 🌍 Problem Statement
 
@@ -63,7 +61,6 @@ Traditional healthcare systems face critical challenges:
 - Administrative workflow inefficiencies
 - Poorly scalable infrastructure
 
----
 
 ## 💡 Solution
 
@@ -76,7 +73,6 @@ NirogSathi introduces a **centralized healthcare management system** that enable
 - Real-time system monitoring  
 - AI-ready healthcare analytics  
 
----
 
 ## ⭐ Key Features
 
@@ -107,7 +103,6 @@ NirogSathi introduces a **centralized healthcare management system** that enable
 - Platform monitoring
 - Healthcare services management
 
----
 
 ## 🧠 AI Ready Architecture
 
@@ -120,7 +115,6 @@ The system is designed for **future AI integration**, including:
 - Healthcare trend analysis
 - Doctor decision support systems
 
----
 
 ## 🏗 System Architecture
 
@@ -145,7 +139,6 @@ Architecture emphasizes:
 - Performance optimization
 - Modular development
 
----
 
 ## ⚡ Tech Stack
 
@@ -181,8 +174,6 @@ Architecture emphasizes:
 - Google reCAPTCHA
 - Secure token validation
 
----
-
 ## 📂 Project Structure
 
 ```
@@ -216,8 +207,6 @@ src
 └── App.jsx
 ```
 
----
-
 ## 📸 Screenshots
 
 ### Home Page
@@ -229,7 +218,6 @@ src
 ### Patient Portal
 (Add screenshot here)
 
----
 
 ## 📱 Responsive Design
 
@@ -245,7 +233,6 @@ Features:
 - Cross-browser compatibility
 - Optimized UI performance
 
----
 
 ## 🚀 Performance Optimizations
 
@@ -255,8 +242,6 @@ Features:
 - Efficient Redux state management
 - Component reusability
 
----
-
 ## 📋 Prerequisites
 
 Before running the project ensure:
@@ -264,8 +249,6 @@ Before running the project ensure:
 - Node.js ≥ 14
 - npm ≥ 6
 - Modern web browser
-
----
 
 ## 🛠 Installation
 
@@ -303,8 +286,6 @@ Application runs at
 http://localhost:3000
 ```
 
----
-
 ## 📊 Real World Impact
 
 This project demonstrates:
@@ -315,8 +296,6 @@ This project demonstrates:
 - AI-ready system architecture
 - Production-grade system design
 
----
-
 ## 🚀 Future Roadmap
 
 - AI diagnosis assistant
@@ -326,8 +305,6 @@ This project demonstrates:
 - Multi-language support
 - Mobile app (React Native)
 - Wearable health tracking
-
----
 
 ## 🤝 Contributing
 
