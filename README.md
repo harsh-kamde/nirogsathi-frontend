@@ -1,4 +1,3 @@
-<!-- PROJECT BANNER -->
 <p align="center">
   <img src="https://img.shields.io/badge/NirogSathi-AI%20Healthcare%20Platform-blue?style=for-the-badge" />
 </p>
@@ -6,39 +5,39 @@
 <h1 align="center">🏥 NirogSathi — AI Powered Healthcare Platform</h1>
 
 <p align="center">
-A production-grade AI-driven healthcare ecosystem connecting <b>patients, doctors, and healthcare providers</b>.
+  A production-grade AI-driven healthcare ecosystem connecting <b>patients, doctors, and healthcare providers</b>.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-18-blue"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-green"/>
-<img src="https://img.shields.io/badge/Express.js-API-lightgrey"/>
-<img src="https://img.shields.io/badge/MongoDB-Database-brightgreen"/>
-<img src="https://img.shields.io/badge/Redux-Toolkit-purple"/>
-<img src="https://img.shields.io/badge/AI-Powered-blueviolet"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange"/>
-<img src="https://img.shields.io/badge/Telemedicine-Healthcare-blue"/>
-<img src="https://img.shields.io/badge/Digital-Healthcare-success"/>
-<img src="https://img.shields.io/badge/Auth-JWT-yellow"/>
-<img src="https://img.shields.io/badge/Security-RBAC-red"/>
-<img src="https://img.shields.io/badge/Security-reCAPTCHA-green"/>
-<img src="https://img.shields.io/badge/License-MIT-yellow"/>
-<img src="https://img.shields.io/badge/Status-Production--Ready-success"/>
+  <img src="https://img.shields.io/badge/React-18-blue"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-green"/>
+  <img src="https://img.shields.io/badge/Express.js-API-lightgrey"/>
+  <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen"/>
+  <img src="https://img.shields.io/badge/Redux-Toolkit-purple"/>
+  <img src="https://img.shields.io/badge/AI-Powered-blueviolet"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enabled-orange"/>
+  <img src="https://img.shields.io/badge/Telemedicine-Healthcare-blue"/>
+  <img src="https://img.shields.io/badge/Digital-Healthcare-success"/>
+  <img src="https://img.shields.io/badge/Auth-JWT-yellow"/>
+  <img src="https://img.shields.io/badge/Security-RBAC-red"/>
+  <img src="https://img.shields.io/badge/Security-reCAPTCHA-green"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow"/>
+  <img src="https://img.shields.io/badge/Status-Production--Ready-success"/>
 </p>
 
 ---
 
 ## 🌐 Live Demo
 
-🚀 **Website**  
-https://www.nirogsathi.com
+🚀 **Website:** [https://www.nirogsathi.com](https://www.nirogsathi.com)
 
+---
 
 ## 📌 Project Overview
 
 **NirogSathi** is an **AI-ready digital healthcare platform** designed to modernize healthcare services through intelligent automation and scalable architecture.
 
-The platform enables:
+### Platform Capabilities
 
 - Patient appointment booking
 - Doctor consultations
@@ -49,6 +48,7 @@ The platform enables:
 
 Built with **future AI integration capabilities** such as predictive healthcare analytics and automated recommendations.
 
+---
 
 ## 🌍 Problem Statement
 
@@ -61,18 +61,20 @@ Traditional healthcare systems face critical challenges:
 - Administrative workflow inefficiencies
 - Poorly scalable infrastructure
 
+---
 
 ## 💡 Solution
 
 NirogSathi introduces a **centralized healthcare management system** that enables:
 
-- Intelligent appointment scheduling  
-- Digital medical records management  
-- Automated prescription handling  
-- Role-based healthcare dashboards  
-- Real-time system monitoring  
-- AI-ready healthcare analytics  
+- Intelligent appointment scheduling
+- Digital medical records management
+- Automated prescription handling
+- Role-based healthcare dashboards
+- Real-time system monitoring
+- AI-ready healthcare analytics
 
+---
 
 ## ⭐ Key Features
 
@@ -103,6 +105,7 @@ NirogSathi introduces a **centralized healthcare management system** that enable
 - Platform monitoring
 - Healthcare services management
 
+---
 
 ## 🧠 AI Ready Architecture
 
@@ -115,6 +118,7 @@ The system is designed for **future AI integration**, including:
 - Healthcare trend analysis
 - Doctor decision support systems
 
+---
 
 ## 🏗 System Architecture
 
@@ -132,13 +136,14 @@ Database
 MongoDB
 ```
 
-Architecture emphasizes:
+### Architecture Principles
 
 - Scalability
 - Maintainability
 - Performance optimization
 - Modular development
 
+---
 
 ## ⚡ Tech Stack
 
@@ -174,6 +179,8 @@ Architecture emphasizes:
 - Google reCAPTCHA
 - Secure token validation
 
+---
+
 ## 📂 Project Structure
 
 ```
@@ -207,32 +214,39 @@ src
 └── App.jsx
 ```
 
+---
+
 ## 📸 Screenshots
 
 ### Home Page
+
 (Add screenshot here)
 
 ### Doctor Dashboard
+
 (Add screenshot here)
 
 ### Patient Portal
+
 (Add screenshot here)
 
+---
 
 ## 📱 Responsive Design
 
-Supports:
+### Supported Devices
 
 - 📱 Mobile devices (320px+)
 - 📱 Tablets (768px+)
 - 💻 Desktop browsers (1024px+)
 
-Features:
+### Features
 
 - Mobile-first design
 - Cross-browser compatibility
 - Optimized UI performance
 
+---
 
 ## 🚀 Performance Optimizations
 
@@ -242,6 +256,8 @@ Features:
 - Efficient Redux state management
 - Component reusability
 
+---
+
 ## 📋 Prerequisites
 
 Before running the project ensure:
@@ -250,41 +266,45 @@ Before running the project ensure:
 - npm ≥ 6
 - Modern web browser
 
+---
+
 ## 🛠 Installation
 
-### Clone Repository
+### 1. Clone Repository
 
 ```bash
 git clone https://github.com/your-username/nirogsathi.git
 cd nirogsathi
 ```
 
-### Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Create Environment Variables
+### 3. Create Environment Variables
 
-Create `.env`
+Create `.env` file:
 
-```
+```env
 REACT_APP_API_URL=<your-api-url>
 REACT_APP_GOOGLE_RECAPTCHA_SITE_KEY=<your-recaptcha-key>
 ```
 
-### Run Development Server
+### 4. Run Development Server
 
 ```bash
 npm start
 ```
 
-Application runs at
+Application runs at:
 
 ```
 http://localhost:3000
 ```
+
+---
 
 ## 📊 Real World Impact
 
@@ -296,6 +316,8 @@ This project demonstrates:
 - AI-ready system architecture
 - Production-grade system design
 
+---
+
 ## 🚀 Future Roadmap
 
 - AI diagnosis assistant
@@ -306,26 +328,28 @@ This project demonstrates:
 - Mobile app (React Native)
 - Wearable health tracking
 
+---
+
 ## 🤝 Contributing
 
-1. Fork repository  
-2. Create feature branch
+### How to Contribute
 
-```
-git checkout -b feature/new-feature
-```
+1. Fork repository
+
+2. Create feature branch
+   ```bash
+   git checkout -b feature/new-feature
+   ```
 
 3. Commit changes
-
-```
-git commit -m "Add feature"
-```
+   ```bash
+   git commit -m "Add feature"
+   ```
 
 4. Push branch
-
-```
-git push origin feature/new-feature
-```
+   ```bash
+   git push origin feature/new-feature
+   ```
 
 5. Open Pull Request
 
@@ -342,3 +366,9 @@ This project is licensed under the **MIT License**.
 **NirogSathi Team**
 
 Empowering the future of **AI-driven digital healthcare systems**.
+
+---
+
+<p align="center">
+  Made with ❤️ for better healthcare
+</p>
