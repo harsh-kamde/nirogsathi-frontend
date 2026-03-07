@@ -1,579 +1,383 @@
-# NirogSathi — AI Powered Healthcare Platform
+<!-- PROJECT BANNER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NirogSathi-AI%20Healthcare%20Platform-blue?style=for-the-badge" />
+</p>
 
-A production-grade AI-driven healthcare ecosystem that connects patients, doctors, and healthcare providers through intelligent automation, real-time insights, and role-based digital healthcare workflows.
+<h1 align="center">🏥 NirogSathi — AI Powered Healthcare Platform</h1>
 
-Designed with scalable frontend architecture, secure authentication, and AI-ready system design.
+<p align="center">
+A production-grade AI-driven healthcare ecosystem connecting <b>patients, doctors, and healthcare providers</b>.
+</p>
 
-**Website:** [https://www.nirogsathi.com](https://www.nirogsathi.com)
+<p align="center">
+
+![React](https://img.shields.io/badge/React-18-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
+
+</p>
 
 ---
 
-## 🌍 Problem Statement
+# 🌐 Live Demo
 
-Traditional healthcare systems suffer from:
+🚀 **Website**  
+https://www.nirogsathi.com
+
+---
+
+# 📌 Project Overview
+
+**NirogSathi** is an **AI-ready digital healthcare platform** designed to modernize healthcare services through intelligent automation and scalable system architecture.
+
+The platform enables:
+
+- Patient appointment booking
+- Doctor consultations
+- Digital medical records
+- Prescription management
+- Healthcare analytics
+- Admin monitoring dashboards
+
+Designed with **future AI integration capabilities** such as predictive healthcare analytics and automated recommendations.
+
+---
+
+# 🌍 Problem Statement
+
+Traditional healthcare systems face critical challenges:
 
 - Manual appointment coordination
-- Fragmented medical records
-- Poor patient–doctor communication
+- Fragmented patient records
+- Inefficient doctor–patient communication
 - Lack of intelligent healthcare insights
-- Inefficient administrative workflows
-- Non-scalable digital infrastructure
-
-NirogSathi solves these problems using an AI-ready healthcare management platform.
+- Administrative workflow inefficiencies
+- Poorly scalable infrastructure
 
 ---
 
-## 💡 Solution
+# 💡 Solution
 
-NirogSathi is a role-based healthcare management system that enables:
+NirogSathi introduces a **centralized healthcare management system** that enables:
 
-- Intelligent appointment scheduling
-- Digital patient records management
-- Prescription automation
-- Real-time system monitoring
-- Healthcare workflow optimization
-- AI-ready healthcare analytics
-
-The system is designed to scale into AI diagnosis assistance, predictive healthcare insights, and automated patient recommendations.
+✔ Intelligent appointment scheduling  
+✔ Digital medical records management  
+✔ Automated prescription handling  
+✔ Role-based healthcare dashboards  
+✔ Real-time system monitoring  
+✔ AI-ready healthcare analytics
 
 ---
 
-## ⭐ Why This Project Stands Out
+# ⭐ Key Features
 
-- Production-style architecture
-- Role-based system design
-- AI-ready platform architecture
-- End-to-end healthcare workflow implementation
-- Secure authentication and authorization
-- Scalable frontend architecture
-- Enterprise-level UI design system
-- Real-world problem solving approach
+### 🧑‍⚕️ Patient Features
 
-This project demonstrates system design thinking, scalable architecture, and product-level development skills.
+- Appointment booking
+- Appointment tracking
+- Medical history access
+- Prescription downloads
+- Doctor reviews & ratings
+- Secure profile management
 
 ---
 
-## 🧠 AI-Ready Architecture
+### 👨‍⚕️ Doctor Features
 
-The platform is designed for future AI integrations such as:
+- Patient management dashboard
+- Appointment scheduling
+- Digital prescription generation
+- Medical record access
+- Health blog publishing
+- Specialization management
+
+---
+
+### 🛠 Admin Features
+
+- Platform analytics dashboard
+- Doctor approval workflow
+- User management
+- Blog moderation
+- Platform monitoring
+- Healthcare services management
+
+---
+
+# 🧠 AI Ready Architecture
+
+The system is designed for **future AI integration**, including:
 
 - AI health insights engine
 - Predictive patient analytics
 - Symptom-based recommendations
 - Intelligent appointment suggestions
 - Healthcare trend analysis
-- Doctor decision support system
+- Doctor decision support systems
 
 ---
 
-## 👥 Role-Based System
-
-### Patient Portal
-- Book appointments
-- Track appointment status
-- Access medical records
-- Download prescriptions
-- Rate doctors
-- Secure profile management
-- Healthcare history tracking
-
-### Doctor Portal
-- Patient management dashboard
-- Appointment handling
-- Digital prescription generation
-- Medical record access
-- Health blog publishing
-- Specialization management
-- Schedule optimization
-
-### Admin Portal
-- System analytics dashboard
-- Doctor approval workflow
-- User management
-- Platform monitoring
-- Blog moderation
-- Healthcare service management
-- Contact request handling
-
----
-
-## 🏗️ System Architecture
+# 🏗 System Architecture
 
 ```
-Client (React)
-→ State Management (Redux Toolkit)
-→ API Layer (Axios / RTK Query)
-→ Backend Services (Node.js, Express.js)
-→ Database (MongoDB)
+Client Layer
+React + Redux Toolkit
+        ↓
+API Layer
+Axios / RTK Query
+        ↓
+Backend
+Node.js + Express.js
+        ↓
+Database
+MongoDB
 ```
 
-Architecture focuses on modular design, scalability, performance, and maintainability.
+Architecture emphasizes:
+
+- Scalability
+- Maintainability
+- Performance optimization
+- Modular development
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### Frontend
-- **React 18.2.0** - Modern UI library
-- **Redux Toolkit** - State management
-- **React Router DOM v6** - Client-side routing
-- **Ant Design v5** - UI component library
-- **React Bootstrap** - Bootstrap components
-- **Axios** - HTTP client
-- **Styled Components** - CSS-in-JS styling
+## Frontend
 
-### Backend
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web application framework
-- **MongoDB** - NoSQL database
-
-### UI & UX
-- **Lottie React** - Animation library
-- **React Type Animation** - Typing effect
-- **React Vertical Timeline** - Timeline component
-- **Swiper** - Carousel/slider
-- **React Star Ratings** - Rating component
-- **React Hot Toast** - Notifications
-
-### Authentication & Security
-- **JWT Authentication** - Token-based auth
-- **Google reCAPTCHA** - Bot protection
-- **Role-based Access Control** - RBAC implementation
-
-### Utilities
-- **React Hook Form** - Form state management
-- **Moment.js** - Date/time handling
-- **UUID** - Unique ID generation
-- **React to Print** - Print functionality
-- **React GA4** - Google Analytics
+- React 18
+- Redux Toolkit
+- React Router DOM
+- Ant Design
+- React Bootstrap
+- Axios
+- Styled Components
 
 ---
 
-## 📦 Project Structure
+## Backend
 
-```
-src/
-├── components/          # Reusable UI components
-│   ├── About/
-│   ├── Admin/
-│   ├── Appointment/
-│   ├── Blog/
-│   ├── Booking/
-│   ├── Doctor/
-│   ├── Home/
-│   ├── Login/
-│   ├── Patient/
-│   └── Shared/
-├── pages/               # Page-level components
-├── redux/               # State management
-│   ├── api/            # RTK Query definitions
-│   ├── feature/        # Redux slices
-│   └── hooks/          # Custom Redux hooks
-├── apis/                # API integration layer
-├── services/            # Business logic
-├── helpers/             # Configurations and utilities
-├── utils/               # Custom hooks
-├── stylesheets/         # Styling system
-├── images/              # Image assets
-├── animations/          # Lottie animations
-├── constant/            # Application constants
-└── App.jsx              # Main application component
-```
-
-Architecture follows modular and scalable design principles.
+- Node.js
+- Express.js
+- MongoDB
 
 ---
 
-## 🔐 Authentication & Authorization
+## UI & Animation
 
-- JWT-based authentication
-- Role-based access control
-- Protected routes
+- Lottie React
+- React Type Animation
+- React Vertical Timeline
+- Swiper
+- React Star Ratings
+- React Hot Toast
+
+---
+
+## Authentication & Security
+
+- JWT Authentication
+- Role-based Access Control (RBAC)
+- Google reCAPTCHA
 - Secure token validation
 
-**Roles:**
-- **Admin** - Full system access
-- **Doctor** - Doctor-specific features
-- **Patient** - Patient-specific features
+---
+
+# 📂 Project Structure
+
+```
+src
+│
+├── components
+│   ├── Admin
+│   ├── Appointment
+│   ├── Blog
+│   ├── Booking
+│   ├── Doctor
+│   ├── Home
+│   ├── Login
+│   ├── Patient
+│   └── Shared
+│
+├── pages
+├── redux
+│   ├── api
+│   ├── feature
+│   └── hooks
+│
+├── apis
+├── services
+├── helpers
+├── utils
+├── stylesheets
+├── images
+├── animations
+├── constant
+└── App.jsx
+```
 
 ---
 
-## 📱 Responsive Design
+# 📸 Screenshots
 
-- Mobile devices (320px and up)
-- Tablets (768px and up)
-- Desktop browsers (1024px and up)
+### Home Page
+
+```
+Add screenshot here
+```
+
+### Doctor Dashboard
+
+```
+Add screenshot here
+```
+
+### Patient Portal
+
+```
+Add screenshot here
+```
+
+---
+
+# 📱 Responsive Design
+
+The application supports:
+
+📱 Mobile devices (320px+)  
+📱 Tablets (768px+)  
+💻 Desktop browsers (1024px+)
+
+Features:
+
+- Mobile-first design
 - Cross-browser compatibility
+- Optimized UI performance
 
 ---
 
-## 🚀 Performance Optimizations
+# 🚀 Performance Optimizations
 
-- Lazy loading routes
+- Lazy-loaded routes
 - Optimized bundle size
-- Efficient state management
-- API caching
+- RTK Query API caching
+- Efficient Redux state management
 - Component reusability
 
 ---
 
-## 🛠️ Installation
+# 📋 Prerequisites
 
-### Clone Repository
+Before running the project ensure:
+
+- Node.js ≥ 14
+- npm ≥ 6
+- Modern web browser
+
+---
+
+# 🛠 Installation
+
+### 1️⃣ Clone Repository
+
 ```bash
-git clone <repository-url>
+git clone https://github.com/your-username/nirogsathi.git
 cd nirogsathi
 ```
 
-### Install Dependencies
+### 2️⃣ Install Dependencies
+
 ```bash
 npm install
 ```
 
-### Create .env File
-```env
+### 3️⃣ Create Environment Variables
+
+Create `.env`
+
+```
 REACT_APP_API_URL=<your-api-url>
 REACT_APP_GOOGLE_RECAPTCHA_SITE_KEY=<your-recaptcha-key>
 ```
 
-### Start Development Server
+### 4️⃣ Run Development Server
+
 ```bash
 npm start
 ```
 
-Application runs at `http://localhost:3000`
+Application runs at
+
+```
+http://localhost:3000
+```
 
 ---
 
-## 📊 Real-World Impact
+# 📊 Real World Impact
 
 This project demonstrates:
 
-- Enterprise application development
-- Scalable system design
-- Production frontend engineering
+- Enterprise-level application development
+- Scalable frontend engineering
 - Healthcare workflow modeling
-- AI-ready platform building
+- AI-ready system architecture
+- Production-grade system design
 
 ---
 
-## 📚 Available Scripts
+# 🚀 Future Roadmap
 
-### Development
-```bash
-npm start
-```
-Runs the app in development mode
-
-### Production Build
-```bash
-npm run build
-```
-Builds the app for production
-
-### Testing
-```bash
-npm test
-```
-Launches the test runner
+- AI diagnosis assistant
+- Video consultation system
+- Telemedicine integration
+- Predictive health analytics
+- Multi-language support
+- Mobile app (React Native)
+- Wearable health tracking
 
 ---
 
-## 🚀 Future Roadmap
+# 🤝 Contributing
 
-- [ ] AI diagnosis assistant
-- [ ] Video consultation
-- [ ] Telemedicine integration
-- [ ] Predictive health analytics
-- [ ] Multi-language support
-- [ ] Mobile application
+Contributions are welcome.
+
+1. Fork repository  
+2. Create feature branch
+
+```
+git checkout -b feature/new-feature
+```
+
+3. Commit changes
+
+```
+git commit -m "Add feature"
+```
+
+4. Push branch
+
+```
+git push origin feature/new-feature
+```
+
+5. Open Pull Request
 
 ---
 
-## 🤝 Contributing
+# 📝 License
 
-We welcome contributions! Follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/your-feature-name`
-3. **Commit your changes**: `git commit -m 'Add feature description'`
-4. **Push to the branch**: `git push origin feature/your-feature-name`
-5. **Open a Pull Request**
-
-### Guidelines
-- Follow existing code style
-- Write meaningful commit messages
-- Test changes before submitting
-- Update documentation if needed
+This project is licensed under the **MIT License**.
 
 ---
 
-## 📝 License
+# ❤️ Built With Passion
 
-This project is licensed under the MIT License. See LICENSE file for details.
+**NirogSathi Team**
 
----
-
-## 💡 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact the development team
-- Check existing documentation
-
----
-
-**Built with ❤️ by the NirogSathi Team**
-
-## 🛠️ Tech Stack
-.js 18.2.0** - Modern UI library
-- **Redux Toolkit** - State management
-- **React Router DOM v6** - Client-side routing
-- **Ant Design v5** - UI component library
-- **React Bootstrap** - Bootstrap components
-- **Axios** - HTTP client
-- **Styled Components** - CSS-in-JS styling
-
-### Backend
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web application framework
-- **MongoDB** - NoSQL database
-
-### AI & Machine Learning
-- **ML Models** - Health insights and recommendations
-- **Predictive Analytics** - Appointment optimization
-
-### UI & Animation
-- **Lottie React** - Animation library
-- **React Type Animation** - Typing effect
-- **React Vertical Timeline** - Timeline component
-- **Swiper** - Carousel/slider
-- **React Star Ratings** - Rating component
-- **React Hot Toast** - Notifications
-
-### Authentication & Security
-- **JWT Decode** - Token parsing
-- **React Google reCAPTCHA** - Bot protection
-- **Dotenv** - Environment variable management
-
-###🤖 Core Features & Capabilities
-
-### AI/ML Powered Features
-- **Health Insights**: Intelligent health recommendations based on medical history
-- **Predictive Analytics**: Appointment scheduling optimization
-- **Smart Matching**: AI-powered doctor-patient matching based on specialization
-- **Health Metrics**: Automated health data analysis and tracking
-
-### Core Functionality
-- **Appointment Booking & Scheduling**: Streamlined booking with real-time availability
-- **Role-Based Dashboards**: Customized views for patients, doctors, and admins
-- **Email Notifications**: Automated appointment reminders and important updates
-- **Prescription Management**: Digital prescription handling and tracking
-- **Patient Reviews & Ratings**: Community feedback system for doctors
-- **Blog & Health Articles**: Educational content from healthcare professionals
-
-##  Utilities
-- **Moment.js** - Date/time handling
-- **React Hook Form** - Form state management
-- **React to Print** - Print functionality
-- **UUID** - Unique ID generation
-- **React GA4** - Google Analytics
-- **Nodemailer/Email Service** - Email notificationtionality
-- **UUID** - Unique ID generation
-- **React GA4** - Google Analytics
-
-## 📋 Prerequisites
-
-- **Node.js** v14.0 or higher
-- **npm** v6.0 or higher
-- Modern web browser with JavaScript enabled
-
-## 🚀 Installation & Setup
-
-### 1. Clone the Repository
-```bash
-git clone <repository-url>
-cd nirogsathi
-```
-
-### 2. Install Dependencies
-```bash
-npm install
-```
-
-### 3. Configure Environment Variables
-Create a `.env` file in the root directory with necessary environment variables:
-```env
-REACT_APP_API_URL=<your-api-url>
-REACT_APP_GOOGLE_RECAPTCHA_SITE_KEY=<your-recaptcha-key>
-```
-
-### 4. Start the Development Server
-```bash
-npm start
-```
-
-The application will open at `http://localhost:3000`
-
-## 📦 Project Structure
-
-```
-src/
-├── components/          # Reusable React components
-│   ├── About/          # About section components
-│   ├── Admin/          # Admin dashboard components
-│   ├── Appointment/    # Appointment-related components
-│   ├── Blog/           # Blog feature components
-│   ├── Booking/        # Booking/checkout components
-│   ├── Doctor/         # Doctor dashboard components
-│   ├── DoctorHome/     # Doctor home page
-│   ├── Home/           # Home page components
-│   ├── Login/          # Authentication components
-│   ├── Patient/        # Patient dashboard
-│   ├── services/       # Service listing components
-│   ├── Shared/         # Shared/common components
-│   ├── TrackAppointment/ # Appointment tracking
-│   └── UI/             # UI-only components
-├── pages/              # Full page components
-├── apis/               # API integration layer
-├── redux/              # Redux store, slices, and hooks
-│   ├── api/           # RTK Query API definitions
-│   ├── feature/       # Redux slices
-│   └── hooks/         # Custom Redux hooks
-├── service/           # Business logic services
-├── utils/             # Utility functions
-│   └── hooks/         # Custom React hooks
-├── helpers/           # Helper functions
-│   ├── axios/         # Axios configuration
-│   └── config/        # Configuration files
-├── stylesheets/       # Global and component styles
-├── images/            # Image assets and icons
-├── animations/        # Lottie animation files
-├── constant/          # Application constants
-└── App.jsx            # Main application component
-```
-
-## 📚 Available Scripts
-
-### Development
-```bash
-npm start
-```
-Runs the app in development mode at http://localhost:3000
-
-### Production Build
-```bash
-npm run build
-```
-Builds the app for production to the `build` folder
-
-### Testing
-```bash
-npm test
-```
-Launches the test runner in interactive watch mode
-
-### Eject (Advanced)
-```bash
-npm run eject
-```
-**Note:** This is a one-way operation. Once you eject, you can't go back!
-
-## 🔐 Authentication & Authorization
-
-The application uses JWT (JSON Web Tokens) for authentication with role-based access control:
-
-- **Admin Role**: Full system access
-- **Doctor Role**: Doctor-specific features and dashboards
-- **Patient Role**: Patient-specific appointments and profiles
-
-## 🌐 API Integration
-
-The application communicates with a backend API via Axios. API endpoints are configured in:
-- `src/apis/` - Individual API modules
-- `src/redux/api/` - RTK Query definitions
-- `src/helpers/axios/` - Axios configuration
-
-## 🎨 Styling
-
-The project uses:
-- **Styled Components** - For component-level styling
-- **CSS Modules** - For stylesheet organization in `src/stylesheets/`
-- **Ant Design Theming** - For consistent design system
-- **Bootstrap Utilities** - For responsive layouts
-
-## 📱 Responsive Design
-
-The application is fully responsive and supports:
-- 📱 Mobile devices (320px and up)
-- 📱 Tablets (768px and up)
-- 💻 Desktop browsers (1024px and up)
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/your-feature-name`
-3. **Commit your changes**: `git commit -m 'Add your feature description'`
-4. **Push to the branch**: `git push origin feature/your-feature-name`
-5. **Open a Pull Request** with a clear description of changes
-
-### Guidelines
-- Follow the existing code style and structure
-- Write meaningful commit messages
-- Test your changes before submitting
-- Update documentation if needed
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**Dependencies installation fails:**
-```bash
-rm -rf node_modules package-lock.json
-npm install
-```
-
-**Port 3000 already in use:**
-```bash
-PORT=3001 npm start
-```
-
-**API connectivity issues:**
-- Verify `.env` configuration
-- ChecAdvanced AI-powered health diagnostics
-- [ ] Video consultation feature with telemedicine
-- [ ] AI-powered appointment recommendations
-- [ ] Multi-language support
-- [ ] Mobile application (React Native)
-- [ ] Advanced analytics dashboard
-- [ ] Enhanced health tracking with wearables integration
-- [ ] Machine learning models for disease predicnder the [Your License Here]. See LICENSE file for details.
-
-## 💡 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact the development team
-- Check existing documentation
-
-## 🚀 Future Enhancements
-
-- [ ] Video consultation feature
-- [ ] AI-powered appointment recommendations
-- [ ] Multi-language support
-- [ ] Mobile application (React Native)
-- [ ] Advanced analytics dashboard
-- [ ] Telemedicine integration
-
-## 📊 Performance
-
-- Optimized bundle size with code splitting
-- Redux for efficient state management
-- Lazy loading for routes and components
-- Caching strategies for API responses
-
----
-
-**Built with ❤️ by the Nirogsathi Team**
+Empowering the future of **AI-driven digital healthcare systems**.
