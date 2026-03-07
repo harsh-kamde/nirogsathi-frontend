@@ -15,7 +15,17 @@ A production-grade AI-driven healthcare ecosystem connecting <b>patients, doctor
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
-![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
+![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-purple)
+
+![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-orange)
+![Telemedicine](https://img.shields.io/badge/Telemedicine-Healthcare-blue)
+![Digital Health](https://img.shields.io/badge/Digital-Healthcare-success)
+
+![JWT Auth](https://img.shields.io/badge/Auth-JWT-yellow)
+![RBAC](https://img.shields.io/badge/Security-RBAC-red)
+![Google reCAPTCHA](https://img.shields.io/badge/Security-reCAPTCHA-green)
+
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
