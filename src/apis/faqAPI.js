@@ -1,9 +1,4 @@
 const faqAPI = [
-  {
-    id: "collapseOne",
-    question: "How do I book an appointment with a doctor?",
-    answer: `To book an appointment, simply visit our website, browse available doctors, select the one you need, and click on the "Book Appointment" button. Follow the prompts to complete the process.`,
-  },
 
   {
     id: "collapseTwo",
